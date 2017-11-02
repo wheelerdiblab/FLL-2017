@@ -1,3 +1,3 @@
 hello world
 
-goodbye world
+goodbye
